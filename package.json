@@ -35,5 +35,6 @@
   "dependencies": {
     "@canvas/image": "^1.0.0",
     "blockhash-core": "^0.1.0"
-  }
+  },
+  "types": "index.d.ts" 
 }

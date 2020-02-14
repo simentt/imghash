@@ -1,0 +1,1 @@
+export function hash(filepath: string | Buffer, bits? : Number, format?: string): string;
